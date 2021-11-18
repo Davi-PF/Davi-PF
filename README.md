@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deividiii
+- 👋 Hi, I’m Davi Prudente Ferreira, better know as @Deividiii
 - 👀 I’m interested in Programming Languages, Program Development, Python and Data Science
 - 🌱 I’m currently learning Python, Git and GitHub, Web2Py and Django
 - 💞️ I’m looking to collaborate on Data Science projects
