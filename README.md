@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Davi Prudente Ferreira, better know as @Davi-PF
 - 👀 I’m interested in almost every Programming Languages, Web applications and Data Science
-- 🌱 I’m currently learning about SCCM, Hyper-V Manager, ReactJS and NodeJS 
+- 🌱 I’m currently learning about ReactJS and React Native
 - 📫 How to reach me: daviprufer@gmail.com
 
 <!---
