@@ -118,12 +118,20 @@
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  
-  <img src="https://streak-stats.demolab.com/?user=Davi-PF&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davi-PF&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+
+<!-- Linha 1: Streak Stats centralizado -->
+  <a>
+    <img width="80%" src="https://streak-stats.demolab.com/?user=Davi-PF&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+  <!-- Linha 2: Status Geral e Top Languages lado a lado -->
+  <a>
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Davi-PF&langs_count=8&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages Donut" />
+  </a>
+  <br/>
+  <a>
+    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Davi-PF&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Git Stats" />
+  </a>
+  <br/>
   
 </div>
 
