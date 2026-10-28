@@ -119,14 +119,25 @@
 ### 📊 Atividade & Estatísticas
 
 <div align="center">
-  
-  <img src="https://streak-stats.demolab.com/?user=Davi-PF&theme=tokyonight&hide_border=true" alt="Estatísticas de Sequência do GitHub" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davi-PF&theme=tokyo-night&hide_border=true" alt="Gráfico de Atividade" />
+
+  <!-- Linha 1: Streak Stats centralizado -->
+  <a>
+    <img width="80%" src="https://streak-stats.demolab.com/?user=Davi-PF&theme=tokyonight&hide_border=true&locale=pt-br" alt="Sequência de Contribuições" />
+  </a>
+
+  <br/>
+
+  <!-- Linha 2: Status Geral e Top Languages lado a lado -->
+  <a>
+    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Davi-PF&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  </a>
+  <br/>
+  <a>
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Davi-PF&langs_count=8&layout=donut&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens Mais Usadas" />
+  </a>
   
 </div>
+
 
 ---
 
